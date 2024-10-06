@@ -1,0 +1,29 @@
+Enter the text to analyze for mountain name:  Could you imagine, in the next month I will try to climb the Denali (Mount McKinley).
+
+Named Entities Recognized as mountains name:
+denali
+mount mckinley
+
+Tokens and labels predictions:
+[CLS]: O
+could: O
+you: O
+imagine: O
+,: O
+in: O
+the: O
+next: O
+month: O
+i: O
+will: O
+try: O
+to: O
+climb: O
+the: O
+denali: B-MOUNTAIN
+(: O
+mount: B-MOUNTAIN
+mckinley: I-MOUNTAIN
+): O
+.: O
+[SEP]: O
