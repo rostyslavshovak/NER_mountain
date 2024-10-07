@@ -60,6 +60,14 @@ Here’s an example of how the model predicts mountain names:
 
 For more details and additional examples, refer to the Jupyter notebook included in this repository.
 
+## **Problems**
+
+The problems that this model currently faces may include:
+  1. Lack of Input Checking: If a user mistakenly inputs "mount **Evrest**" instead of "**Everest**". The model may misrecognize name.
+  2. The model struggles when the input contains only part of the names, such as "**Olympus**" instead of "Mount Olympus." So please use full names, from name list file.
+
+All these problems may fix by using larger dataset, leading to better model accuracy.
+
 ## **Usage**
 
 To perform inference with the trained model, use the provided Python scripts:
