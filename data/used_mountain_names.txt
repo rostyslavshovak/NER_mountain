@@ -8,7 +8,6 @@ Blue Ridge Mountains
 Scandinavian
 Sierra Nevada
 Mount Kenya
-Sierra Nevada mountains
 Swiss Alps
 Brooks Range
 Mount Olympus
@@ -33,9 +32,7 @@ Atlas Mountains
 Dolomites
 Himalayas
 Mount Elbrus
-Andes
 Carpathian Mountains
-Mount St .
 Mount Fuji
 Tien Shan
 Cascade
@@ -49,13 +46,8 @@ Japanese Alps
 Apennine Mountains
 Mount Eiger
 Drakensberg Mountains
-
-Mount Everest
 Cerro Aconcagua
-Denali
-Kilimanjaro
 Cristobal Colon
-Mount Logan
 Citlaltepetl
 Mount Vinson
 Puncak Jaya
@@ -69,8 +61,6 @@ Chimborazo
 Bogda Shan
 Namcha Barwa
 Kinabalu
-Mount Rainier
-K2
 Ras Dashen
 Tajumulco
 Pico Bolivar
@@ -80,12 +70,9 @@ Margherita
 Kangchenjunga
 Tirich Mir
 Mount Cameroon
-Mount Kenya
 Gunung Kerinci
 Mount Erebus
-Mount Fuji
 Jebel Toubkal
-Mount Cook
 Cerro Chirripo
 Gunung Rinjani
 Pico Teide
