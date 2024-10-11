@@ -3,7 +3,7 @@
 ## **Overview**
 
 This project focuses on recognizing mountain names in text using Named Entity Recognition (NER) techniques. The goal is to identify mountain names in unstructured text data. This model can extract named entities related to mountains and label them accordingly.
-
+Check for **comments** inside Jupyter Notebook Demo
 ## **Data Collection**
 
 Data for this project was sourced from the [Kaggle dataset](https://www.kaggle.com/datasets/geraygench/mountain-ner-dataset/code).
