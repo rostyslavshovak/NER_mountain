@@ -1,0 +1,49 @@
+{
+  "best_metric": 0.010001513175666332,
+  "best_model_checkpoint": "C:/ME/Coding/Data/Mountain/results_new\\checkpoint-200",
+  "epoch": 2.0,
+  "eval_steps": 500,
+  "global_step": 200,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "eval_loss": 0.032407552003860474,
+      "eval_runtime": 33.9488,
+      "eval_samples_per_second": 11.753,
+      "eval_steps_per_second": 1.473,
+      "step": 100
+    },
+    {
+      "epoch": 2.0,
+      "eval_loss": 0.010001513175666332,
+      "eval_runtime": 34.848,
+      "eval_samples_per_second": 11.45,
+      "eval_steps_per_second": 1.435,
+      "step": 200
+    }
+  ],
+  "logging_steps": 500,
+  "max_steps": 300,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 3,
+  "save_steps": 500,
+  "stateful_callbacks": {
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": false
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 250557275629584.0,
+  "train_batch_size": 16,
+  "trial_name": null,
+  "trial_params": null
+}
